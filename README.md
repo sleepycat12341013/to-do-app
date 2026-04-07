@@ -1,4 +1,4 @@
 # to-do-app
 a simple to-do app on solidity.
 
-(edit: on next my day off)
+(edit & connecting NJ: on next my day off)
